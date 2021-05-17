@@ -1,5 +1,12 @@
+@import url("//hello.myfonts.net/count/3e65cd");
+
 @import url("https://fonts.gstatic.com");
-@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Noto+Serif&family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=IBM+Plex+Serif&family=Lora&family=Merriweather&family=Playfair+Display&family=Source+Serif+Pro&display=swap');
+
+@font-face {
+  font-family: "FreightDispProBook-Regular";
+  src: url('/static/fonts/FreightDispProBookRegular.woff2') format('woff2'), url('/static/fonts/FreightDispProBookRegular.woff') format('woff');
+}
 
 *,
 *:after,
