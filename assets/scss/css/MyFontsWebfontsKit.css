@@ -1,0 +1,105 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 4089293, 2021-05-16T13:12:44-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: FreightDispProBook-Regular by GarageFonts
+ * URL: https://www.myfonts.com/fonts/garagefonts/freight-disp-pro/book/
+ * 
+ * Webfont: FreightDispProBold-Regular by GarageFonts
+ * URL: https://www.myfonts.com/fonts/garagefonts/freight-disp-pro/bold/
+ * 
+ * Webfont: FreightDispProBold-Italic by GarageFonts
+ * URL: https://www.myfonts.com/fonts/garagefonts/freight-disp-pro/bold-italic/
+ * 
+ * Webfont: FreightDispProLight-Italic by GarageFonts
+ * URL: https://www.myfonts.com/fonts/garagefonts/freight-disp-pro/light-italic/
+ * 
+ * Webfont: FreightDispProLight-Regular by GarageFonts
+ * URL: https://www.myfonts.com/fonts/garagefonts/freight-disp-pro/light/
+ * 
+ * Webfont: FreightDispProSemibold-Regular by GarageFonts
+ * URL: https://www.myfonts.com/fonts/garagefonts/freight-disp-pro/semibold/
+ * 
+ * Webfont: FreightDispProMedium-Regular by GarageFonts
+ * URL: https://www.myfonts.com/fonts/garagefonts/freight-disp-pro/medium/
+ * 
+ * Webfont: FreightDispProMedium-Italic by GarageFonts
+ * URL: https://www.myfonts.com/fonts/garagefonts/freight-disp-pro/medium-italic/
+ * 
+ * Webfont: FreightDispProBook-Italic by GarageFonts
+ * URL: https://www.myfonts.com/fonts/garagefonts/freight-disp-pro/book-italic/
+ * 
+ * Webfont: FreightDispProSemibold-Italic by GarageFonts
+ * URL: https://www.myfonts.com/fonts/garagefonts/freight-disp-pro/semibold-italic/
+ * 
+ * Webfont: FreightDispProBlack-Regular by GarageFonts
+ * URL: https://www.myfonts.com/fonts/garagefonts/freight-disp-pro/black/
+ * 
+ * Webfont: FreightDispProBlack-Italic by GarageFonts
+ * URL: https://www.myfonts.com/fonts/garagefonts/freight-disp-pro/black-italic/
+ * 
+ * 
+ * Webfonts copyright: Copyright &amp;#x00A9; 2005-2009, Joshua Darden &amp;amp; Phil&#x27;s Fonts, Inc. All rights reserved. Published by Garagefonts USA 301-879-9222 www.garagefonts.com
+ * 
+ * © 2021 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3e65cd");
+  
+@font-face {
+  font-family: "FreightDispProLight-Italic";
+  src: url('static/webFonts/FreightDispProLightItalic/font.woff2') format('woff2'), url('static/webFonts/FreightDispProLightItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "FreightDispProBook-Regular";
+  src: url('static/webFonts/FreightDispProBookRegular/font.woff2') format('woff2'), url('static/webFonts/FreightDispProBookRegular/font.woff') format('woff');
+}
+@font-face {
+  font-family: "FreightDispProBold-Italic";
+  src: url('static/webFonts/FreightDispProBoldItalic/font.woff2') format('woff2'), url('static/webFonts/FreightDispProBoldItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "FreightDispProBold-Regular";
+  src: url('static/webFonts/FreightDispProBoldRegular/font.woff2') format('woff2'), url('static/webFonts/FreightDispProBoldRegular/font.woff') format('woff');
+}
+@font-face {
+  font-family: "FreightDispProBlack-Regular";
+  src: url('static/webFonts/FreightDispProBlackRegular/font.woff2') format('woff2'), url('static/webFonts/FreightDispProBlackRegular/font.woff') format('woff');
+}
+@font-face {
+  font-family: "FreightDispProBlack-Italic";
+  src: url('static/webFonts/FreightDispProBlackItalic/font.woff2') format('woff2'), url('static/webFonts/FreightDispProBlackItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "FreightDispProLight-Regular";
+  src: url('static/webFonts/FreightDispProLightRegular/font.woff2') format('woff2'), url('static/webFonts/FreightDispProLightRegular/font.woff') format('woff');
+}
+@font-face {
+  font-family: "FreightDispProBook-Italic";
+  src: url('static/webFonts/FreightDispProBookItalic/font.woff2') format('woff2'), url('static/webFonts/FreightDispProBookItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "FreightDispProMedium-Regular";
+  src: url('static/webFonts/FreightDispProMediumRegular/font.woff2') format('woff2'), url('static/webFonts/FreightDispProMediumRegular/font.woff') format('woff');
+}
+@font-face {
+  font-family: "FreightDispProSemibold-Regular";
+  src: url('static/webFonts/FreightDispProSemiboldRegular/font.woff2') format('woff2'), url('static/webFonts/FreightDispProSemiboldRegular/font.woff') format('woff');
+}
+@font-face {
+  font-family: "FreightDispProSemibold-Italic";
+  src: url('static/webFonts/FreightDispProSemiboldItalic/font.woff2') format('woff2'), url('static/webFonts/FreightDispProSemiboldItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "FreightDispProMedium-Italic";
+  src: url('static/webFonts/FreightDispProMediumItalic/font.woff2') format('woff2'), url('static/webFonts/FreightDispProMediumItalic/font.woff') format('woff');
+}
+
