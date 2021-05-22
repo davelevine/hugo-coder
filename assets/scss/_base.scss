@@ -5,12 +5,10 @@
 
 @font-face {
   font-family: 'DomaineText-Regular';
-  src: url('../fonts/DomaineText-Regular.eot');
-  src: url('../fonts/DomaineText-Regular.eot?#iefix') format('embedded-opentype'),
-       url('../fonts/DomaineText-Regular.svg#DomaineText-Regular') format('svg'),
-       url('../fonts/DomaineText-Regular.ttf') format('truetype'),
-       url('../fonts/DomaineText-Regular.woff') format('woff'),
-       url('../fonts/DomaineText-Regular.woff2') format('woff2');
+  src: url('../fonts/domaine-text-web-regular.eot');
+  src: url('../fonts/domaine-text-web-regular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/domaine-text-web-regular.woff') format('woff'),
+       url('../fonts/domaine-text-web-regular.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
